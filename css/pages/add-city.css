@@ -1,0 +1,52 @@
+/* start add-city.css */
+
+
+.ciudad {
+    width: 240px;
+    margin: 5px 0px 10px -4px;
+    height: 40px;
+    text-indent: 10px;
+    border-radius: 5px;
+}
+
+.agregar {
+    margin-left: 70px;
+    width: 90px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: var(--color-theme);
+    color: white;
+    font-weight: bold;
+}
+
+.messages {
+    display: grid;
+    justify-content: space-around;
+    margin: 40px;
+}
+
+.msg {
+    text-align: center;
+    padding-top: 15px;
+    width: 487px;
+    height: 48px;
+    border-radius: 10px;
+    background-color: #28a745;
+    color: white;
+}
+
+.msg.msg-error {
+    background-color: #dc3545;
+}
+
+.msg.msg-warning {
+    background-color: #ffc107;
+}
+
+.texto-ingrese-ciudad {
+    text-align: center;
+    font-weight: bold;
+}
+
+/* end add-city.css ----*/
+

@@ -1,0 +1,19 @@
+/* start index.css */ 
+
+.ciudad {
+    width: 200px;
+    height: 36px;
+    text-indent: 10px;
+    border-radius: 5px;
+}
+
+.consultar {
+    width: 88px;
+    height: 36px;
+    border-radius: 10px;
+    background-color: var(--color-theme);
+    color: white;
+    font-weight: bold;
+}
+
+/* end index.css ----*/

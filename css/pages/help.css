@@ -1,0 +1,53 @@
+/* start help.css */
+
+.nombre {
+    width: 315px;
+    margin: 5px 0px 10px 0px;
+    height: 40px;
+    text-indent: 10px;
+    border-radius: 5px;
+}
+
+.email {
+    width: 315px;
+    margin: 5px 0px 10px 0px;
+    height: 40px;
+    text-indent: 10px;
+    border-radius: 5px;
+}
+
+.mensaje {
+    width: 315px;
+    margin: 5px 0px 10px 0px;
+    height: 215px;
+    text-indent: 10px;
+    border-radius: 5px;
+}
+
+.limpiar {
+    margin-left: 77px;
+    width: 75px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: var(--color-theme);
+    color: white;
+    font-weight: bold;
+}
+
+.enviar {
+    width: 75px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: var(--color-theme);
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.message {
+    display: grid;
+    justify-content: space-around;
+    margin: 40px;
+}
+
+/* end help.css ----*/
